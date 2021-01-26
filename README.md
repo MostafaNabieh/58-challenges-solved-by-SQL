@@ -30,7 +30,7 @@
 | 19 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Basic%20Select/Employee%20Names.sql)  |
 | 20 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Basic%20Select/Employee%20Salaries.sql)  |
 
-### Basic Select Challenges
+### Advanced Select Challenges
 
 | Number | Challenges | Solutions | 
 | ------------- | ------------- | -------------|
@@ -42,7 +42,7 @@
 
 
 
-### Basic Join
+### Basic Join Challenges
 | Number | Challenges | Solutions | 
 | ------------- | ------------- | -------------|
 | 1 | [Asian Population](https://www.hackerrank.com/challenges/asian-population/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Basic%20Join/Asian%20Population.sql)  |
@@ -54,7 +54,7 @@
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Basic%20Join/Challenges.sql)  |
 | 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Basic%20Join/Contest%20Leaderboard.sql)  |
 
-### Alternative Queries
+### Alternative Queries Challenges
 | Number | Challenges | Solutions | 
 | ------------- | ------------- | -------------|
 | 1 | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Alternative%20Queries/Draw%20The%20Triangle%201.sql)  |
