@@ -54,6 +54,16 @@
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Basic%20Join/Challenges.sql)  |
 | 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Basic%20Join/Contest%20Leaderboard.sql)  |
 
+### Advanced Join Challenges
+| Number | Challenges | Solutions | 
+| ------------- | ------------- | -------------|
+| 1 | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Advanced%20Join/SQL%20Project%20Planning.sql)  |
+| 2 | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Advanced%20Join/Placements.sql)  |
+| 3 | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Advanced%20Join/Symmetric%20Pairs.sql)  |
+| 4 | [Interviews](https://www.hackerrank.com/challenges/interviews/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Advanced%20Join/Interviews.sql)  |
+| 5 | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Advanced%20Join/15%20Days%20of%20Learning%20SQL.sql)  |
+
+
 ### Alternative Queries Challenges
 | Number | Challenges | Solutions | 
 | ------------- | ------------- | -------------|
