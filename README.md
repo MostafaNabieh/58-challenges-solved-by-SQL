@@ -30,6 +30,18 @@
 | 19 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Basic%20Select/Employee%20Names.sql)  |
 | 20 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Basic%20Select/Employee%20Salaries.sql)  |
 
+### Basic Select Challenges
+
+| Number | Challenges | Solutions | 
+| ------------- | ------------- | -------------|
+| 1 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Advanced%20Select%20Challenges/Type%20of%20Triangle.sql)  |
+| 2 | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Advanced%20Select%20Challenges/The%20PADS.sql)  |
+| 3 | [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Advanced%20Select%20Challenges/Occupations.sql)  |
+| 4 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Advanced%20Select%20Challenges/Binary%20Tree%20Nodes.sql)  |
+| 5 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Advanced%20Select%20Challenges/New%20Companies.sql)  |
+
+
+
 ### Basic Join
 | Number | Challenges | Solutions | 
 | ------------- | ------------- | -------------|
