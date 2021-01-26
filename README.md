@@ -52,8 +52,6 @@
 | 6 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Aggregation/Population%20Density%20Difference.sql)  |
 | 7 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Aggregation/The%20Blunder.sql)  |
 | 8 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Aggregation/Top%20Earners.sql)  |
-
-
 | 9 | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Aggregation/Weather%20Observation%20Station%202.sql)  |
 | 10 | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%2013.sql)  |
 | 11 | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Basic%20Select/Weather%20Observation%20Station%2014.sql)  |
@@ -95,6 +93,7 @@
 
 ## References 
 1- https://www.w3schools.com/sql/
+
 2- https://www.tutorialspoint.com/sql/index.htm
 
 
