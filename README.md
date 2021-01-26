@@ -41,3 +41,10 @@
 | 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Basic%20Join/Ollivander's%20Inventory.sql)  |
 | 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Basic%20Join/Challenges.sql)  |
 | 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Basic%20Join/Contest%20Leaderboard.sql)  |
+
+### Alternative Queries
+| Number | Challenges | Solutions | 
+| ------------- | ------------- | -------------|
+| 1 | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Alternative%20Queries/Draw%20The%20Triangle%201.sql)  |
+| 2 | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Alternative%20Queries/Draw%20The%20Triangle%202.sql)  |
+| 3 | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | [SQL](https://github.com/MostafaNabieh/58-challenges-solved-by-SQL/blob/main/Alternative%20Queries/Print%20Prime%20Numbers.sql)  |
